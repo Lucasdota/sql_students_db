@@ -1,1 +1,1 @@
-# sql_students_db
+### A postgreSQL database about students, majors and courses.
